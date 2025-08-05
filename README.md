@@ -20,7 +20,28 @@ It's a great starting point for beginners to understand loops, conditionals, and
 
 ---
 
+## 🧠 What I Learned
+- Generating random numbers using random.randint()
+- Handling user input with input()
+- Using loops and conditionals effectively
+  
+---
+
+## 💬 Join Me!
+- I’m building 50 Python projects in 50 days!
+- Follow my journey on www.linkedin.com/in/sunil-rajpurohit
+- and share your own projects using #50DaysOfPython 🚀
+
+---
+
 ## 📦 How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/sunil-rajpurohit/Number-Guessing-Game-Day1.git
+2. Navigate to the directory:
+   ```bash
+   cd Day01-Number-Guessing-Game
+3. Run the game:
+   ```bash
+   python main.py
+
